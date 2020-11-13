@@ -1,0 +1,4 @@
+.*
+!/.gitignore
+tanium-client/terraform.*
+tanium-client/.terraform
